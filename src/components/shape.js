@@ -2,7 +2,7 @@
 // declare class
 class Shape{
     constructor(){
-    this.color=blue;
+    this.color="green";
     }
     drawShape(){
     return "Shape is drawn";
